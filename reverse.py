@@ -1,6 +1,5 @@
 def run():
         confirmation = int(input("You have selected Reverse string encryption\n Would you like to: \n 1) Encrypt \n 2) Decrypt\n"))
-        print(confirmation)
         if confirmation == 1:
             encrypt(input("Enter string to encrypt:\n"))
         elif confirmation == 2:
