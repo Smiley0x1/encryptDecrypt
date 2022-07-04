@@ -1,3 +1,6 @@
+#What is a Reverse Cypher?
+    #A reverse cypher takes whatever string you enter, and spits it back out in reverse order
+
 def run():
         confirmation = int(input("You have selected Reverse string encryption\n Would you like to: \n 1) Encrypt \n 2) Decrypt\n"))
         if confirmation == 1:

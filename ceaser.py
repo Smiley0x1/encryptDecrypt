@@ -1,3 +1,5 @@
+#What is a Ceaser Cypher?
+    #A Ceaser cypher takes whatever string you enter, and uses a key(X) and list of symbols to change the letter by X # of places  
 import pyperclip
 
 def run():

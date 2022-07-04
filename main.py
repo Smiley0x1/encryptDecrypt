@@ -11,4 +11,4 @@ if __name__=="__main__":
     if ques == 2:
         ceaser.run()
     if ques == 3:
-        ransposition.run()
+        transposition.run()
